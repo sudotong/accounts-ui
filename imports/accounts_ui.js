@@ -52,6 +52,8 @@ Accounts.ui.config = function(options) {
     'passwordSignupFields',
     'requestPermissions',
     'requestOfflineToken',
+    'forceApprovalPrompt',
+    
     'forbidClientAccountCreation',
     'requireEmailVerification',
     'minimumPasswordLength',
